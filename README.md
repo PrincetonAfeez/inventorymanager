@@ -1,4 +1,4 @@
-# 86inventorymanager
+#inventorymanager
 Python Script that handles inventory management
 Project: The "86-List" Inventory Manager
 Concept Focus: Lists, Dictionaries, For-Loops, and Strings.
